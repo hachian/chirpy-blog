@@ -1,6 +1,6 @@
 ---
 title: first post
-date: YYYY-MM-DD 23:31
+date: 2023-09-07 23:31
 categories: [test, test_post]
 tags: [tag1, tag2, tag3]
 author: hachian

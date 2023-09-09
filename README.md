@@ -1,8 +1,14 @@
 # Chirpy Blog
 
-https://hachian.github.io/chirpy-blog/
+## Site URL
 
-`bundle exec jekyll s`
+https://chirpy-blog.pages.dev/
+
+## Local
+
+- command: `bundle exec jekyll s --future`
+
+## Credit
 
 Built with [chirpy-starter](https://github.com/cotes2020/chirpy-starter), [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
 

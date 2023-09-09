@@ -33,6 +33,8 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit.
 
 ![Alt text](/assets/img/2023-09-07-first-post/image-1.png)
 
+![Alt text](/assets/img/2023-09-07-first-post/draw.svg)
+
 ## リスト
 
 - aaa

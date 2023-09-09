@@ -1,8 +1,8 @@
 ---
 title: first post
 date: 2023-09-07 23:31
-categories: [test, test_post]
-tags: [tag1, tag2, tag3]
+categories: [test]
+tags: [test]
 author: hachian
 math: true
 ---

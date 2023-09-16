@@ -48,4 +48,7 @@
         // text-underline-offset: -0.2em; /* 線の位置。テキストに重なるようにやや上部にする */
         text-decoration-skip-ink: none; /* 下線と文字列が重なる部分でも下線が省略されない（線が途切れない） */
     }
+    img {
+        border: 1px #c9def1 solid;
+    }
 }

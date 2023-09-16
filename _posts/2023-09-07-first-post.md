@@ -31,7 +31,7 @@ Lorem ipsum dolor sit, amet consectetur adipisicing elit.
 
 ## 画像
 
-![Alt text](/assets/img/2023-09-07-first-post/image-1.png)
+![Alt text](/assets/img/2023-09-07-first-post/avatar.webp)
 
 ![Alt text](/assets/img/2023-09-07-first-post/draw.svg)
 

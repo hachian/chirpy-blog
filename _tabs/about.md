@@ -61,7 +61,8 @@ order: 4
 - Twitter: [https://twitter.com/_hachian](https://twitter.com/_hachian)
 - X: [https://x.com/_hachian](https://x.com/_hachian)
 - GitHub: [https://github.com/hachian](https://github.com/hachian)
-- Blog: [https://blog.hachian.com/](https://blog.hachian.com/)
+- Blog: [https://blog.hachian.com](https://blog.hachian.com)
+- Digital Garden: [https://dig.hachian.com](https://dig.hachian.com)
 
 ### 相互リンク
 

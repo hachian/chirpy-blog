@@ -1,8 +1,8 @@
 ---
 title: GitHub Pagesのカスタムドメイン設定でInvalidDNSErrorが出る
 date: 2023-09-17 14:33:50
-categories: [tech, github]
-tags: [github, error]
+categories: [tech]
+tags: [github, error, github-pages, deploy, domain]
 math: false
 author: hachian
 ---

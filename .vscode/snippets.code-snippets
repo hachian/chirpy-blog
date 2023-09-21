@@ -1,0 +1,71 @@
+{
+	// Place your chirpy-blog ワークスペース snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"front-matter": {
+		"prefix": ["front-matter"],
+		"body": [
+			"---",
+			"title: ${1:title}",
+			"date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND",
+			"categories: [${2|tech,game,life,book|}]",
+			"tags: [${4:tags1}, ${5:tags2}]",
+			"math: false",
+			"author: hachian"
+			"---",
+		],
+		"description": "front matter for jekyll chirpy theme"
+	},
+	"callout-tip": {
+		"prefix": ["callout-tip", "tip"],
+		"body": [
+			"> ${1:prompt content text}",
+			"{: .prompt-tip }"
+		],
+		"description": "tip block"
+	},
+	"callout-info": {
+		"prefix": ["callout-info", "info"],
+		"body": [
+			"> ${1:prompt content text}",
+			"{: .prompt-info }"
+		],
+		"description": "info block"
+	},
+	"callout-warning": {
+		"prefix": ["callout-warning", "warning"],
+		"body": [
+			"> ${1:prompt content text}",
+			"{: .prompt-warning }"
+		],
+		"description": "warning block"
+	},
+	"callout-danger": {
+		"prefix": ["callout-danger", "danger"],
+		"body": [
+			"> ${1:prompt content text}",
+			"{: .prompt-danger }"
+		],
+		"description": "danger block"
+	},
+	"kbd": {
+		"prefix": ["kbd"],
+		"body": [
+			"<kbd>${1:key}</kbd>",
+		],
+		"description": "kbd tag"
+	},
+}

@@ -1,0 +1,27 @@
+{
+    "markdown.copyFiles.destination": {
+        "**/*.md": "${documentWorkspaceFolder}/assets/img/${documentBaseName}/"
+    },
+    "editor.wordSeparators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?゠・，、；：！？．。‘’“”（）｟｠［］〚〛〔〕｛｝〈〉《》「」『』【】〖〗〝〟がてでとにのはへもやを",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.language.colorizedBracketPairs": [
+        ["‘", "’"],
+        ["“", "”"],
+        ["(", ")"],
+        ["（", "）"],
+        ["｟", "｠"],
+        ["[", "]"],
+        ["［", "］"],
+        ["〚", "〛"],
+        ["〔", "〕"],
+        ["{", "}"],
+        ["｛", "｝"],
+        ["〈", "〉"],
+        ["《", "》"],
+        ["「", "」"],
+        ["『", "』"],
+        ["【", "】"],
+        ["〖", "〗"],
+        ["〝", "〟"],
+    ],
+}

@@ -94,7 +94,7 @@ Visual Studio Codeを起動し、`C:\00_work\python\quarto`をワークスペー
 
 設定できたら[Quarto公式のテスト](https://quarto.org/docs/get-started/hello/vscode.html#render-and-preview)を実行してみます。`hello.qmd`という名前の新しいファイルを作成し、リンクからコピーしたテスト用のコードを貼り付けます。
 
-再びコマンドパレットを開き、`render`などと検索し、`Quarto: Render`を選択します。
+再びコマンドパレットを開き、`preview`などと検索し、`Quarto: Preview`を選択します。
 
 ![Alt text](/assets/img/2023-09-20-quarto-vscode-conda/image-8.png)
 
@@ -104,7 +104,7 @@ Visual Studio Codeを起動し、`C:\00_work\python\quarto`をワークスペー
 
 ### ModuleNotFoundErrorが出る場合
 
-`Quarto: Render`した際に、`ModuleNotFoundError`が出る場合があります。一番なりやすいエラーは以下だと思います。
+`Quarto: Preview`した際に、`ModuleNotFoundError`が出る場合があります。一番なりやすいエラーは以下だと思います。
 
 ```bash
 ModuleNotFoundError: No module named 'nbformat'

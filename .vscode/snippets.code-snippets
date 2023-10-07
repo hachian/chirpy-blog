@@ -21,7 +21,7 @@
 			"---",
 			"title: ${1:title}",
 			"date: $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE $CURRENT_HOUR:$CURRENT_MINUTE:$CURRENT_SECOND",
-			"categories: [${2|tech,game,life,book|}]",
+			"categories: [${2|tech,game,life,book,slide|}]",
 			"tags: [${4:tags1}, ${5:tags2}]",
 			"math: false",
 			"author: hachian"
